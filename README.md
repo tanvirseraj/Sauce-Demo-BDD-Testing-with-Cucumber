@@ -3,6 +3,32 @@ Cucumber is a testing framework that uses Behavior-Driven Development (BDD) to s
 
 # Login Automation with Cucumber Selenium
 
+## Components of Cucumber BDD Framework
+Cucumber is a tool for running automated acceptance tests 
+written in a behavior driven development style. 
+One of its wonderful main features is the ability to execute 
+plain text functional description (written in language named Gherkin) 
+as automated tests.
+Feature Files,
+Cukes Runner,
+Step Definition,
+Pages
+1.Feature files 
+Consists of scenarios that test a certain feature or functionality 
+Feature is main story while scenarios are the test cases to the story(feature) 
+2.Cukes Runner 
+A class that strictly runs the tests, generates codes for step definition 
+@smoketest 
+3. Step definition 
+A class that made of steps that starts withGherkin language 
+Make sure the step definition is in the same package as cukes Runner, 
+or child package (not parent or sibling)
+4.Pages 
+I have a Pages package where I identify and store web elements variables
+and methods for each page of my application.
+I also use PageFactory pattern to instantiate 
+my web elements by using @FindBy
+
 ## Technology and Tools used:
 - Selenium
 - Cucumber
@@ -11,6 +37,11 @@ Cucumber is a testing framework that uses Behavior-Driven Development (BDD) to s
 - TestNG
 - Maven
 - Spring Tools 4 IDE
+- Extent Report
+- Browser - Google Chrome
+
+## Functionality
+-E2E Gherkin based scenario of Sauce Demo Login Page 
 
 ## Scenario:
 - Visit this site : https://www.saucedemo.com/
