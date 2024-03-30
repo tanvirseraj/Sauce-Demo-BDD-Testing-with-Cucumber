@@ -47,5 +47,12 @@ My web elements by using @FindBy
 - Configure JAVA_HOME and MAVEN_HOME
 
 ## How to run this project:
-- Clone this project
-- hit the following command: mvn clean test / mvn clean instal
+- Open the Terminal
+- mvn test
+
+## Cucumber Report
+
+![image](https://github.com/tanvirseraj/Sauce-Demo-BDD-Testing-with-Cucumber/assets/85784149/755fa64b-acec-4617-bda0-6765b9d54aaf)
+
+
+
