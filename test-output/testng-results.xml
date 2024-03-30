@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-30T13:50:17 BDT" name="Default suite" finished-at="2024-03-30T13:50:39 BDT" duration-ms="22097">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-03-30T13:50:17 BDT" name="Default test" finished-at="2024-03-30T13:50:39 BDT" duration-ms="22097">
+      <class name="testrunners.CucumberTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:17 BDT" name="setUpClass" finished-at="2024-03-30T13:50:18 BDT" duration-ms="806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3db65c0d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login with an invalid password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15950" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should be able to see the credential placeholder"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login with invalid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="16075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login without username"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:33 BDT" duration-ms="14704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login without username and password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="16012" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should not be able to login without password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:18 BDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-30T13:50:34 BDT" duration-ms="15950" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should be able to log in with valid credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testrunners.CucumberTestRunner@5d908d47]" started-at="2024-03-30T13:50:34 BDT" name="tearDownClass" finished-at="2024-03-30T13:50:39 BDT" duration-ms="5164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testrunners.CucumberTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
