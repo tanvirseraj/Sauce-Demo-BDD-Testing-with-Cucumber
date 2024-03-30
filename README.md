@@ -54,5 +54,12 @@ My web elements by using @FindBy
 
 ![image](https://github.com/tanvirseraj/Sauce-Demo-BDD-Testing-with-Cucumber/assets/85784149/755fa64b-acec-4617-bda0-6765b9d54aaf)
 
+## PDF Report
+![image](https://github.com/tanvirseraj/Sauce-Demo-BDD-Testing-with-Cucumber/assets/85784149/1c51cfdc-a5a4-499c-bb2c-5256cc830f37)
+![image](https://github.com/tanvirseraj/Sauce-Demo-BDD-Testing-with-Cucumber/assets/85784149/ea0ab2a1-a2b2-4002-9673-ed1e1c97c1dd)
+
+## Extent Report
+
+
 
 
